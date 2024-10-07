@@ -2,6 +2,9 @@
 
 ## master
 
+## 1.1.7
+* Update runtime dependency to support Rails 8
+
 ## 1.1.6
 * Update runtime dependency to support Rails 7 and its variants
 
